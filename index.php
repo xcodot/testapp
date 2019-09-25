@@ -2,6 +2,6 @@
 
 <html>
 test 
-trait_exists
+test 
 
 ?>
